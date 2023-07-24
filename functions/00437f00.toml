@@ -1,12 +1,19 @@
 [metadata]
 addr = 0x437f00
 size = 0xccb
-last_change = 2023-07-24T06:24:38.789635Z
+last_change = 2023-07-24T07:13:21.134586Z
 
 [header]
-name = "sub_437f00"
+name = "hehe_som_qwe"
 addr = 0x437f00
 type = "ulong"
+
+[stack_vars.0x0]
+offset = 0x0
+name = "__return_addr"
+type = "void* const"
+size = 0x0
+addr = 0x437f00
 
 [header.args.0]
 offset = 0x0
@@ -68,13 +75,13 @@ name = "arg10"
 type = "char"
 size = 0x10
 
-[header.args.2359835005720]
+[header.args.10]
 offset = 0xa
 name = "arg11"
 type = "char"
 size = 0x10
 
-[header.args.2359835005721]
+[header.args.11]
 offset = 0xb
 name = "arg12"
 type = "int128_t"
