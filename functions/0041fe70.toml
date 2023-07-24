@@ -4,7 +4,6 @@ size = 0x6f
 last_change = 2023-07-24T06:23:41.366161Z
 
 [header]
-last_change = 2023-07-24T06:23:41.366161Z
 name = "sub_41fe70"
 addr = 0x41fe70
 type = "ulong (*"
