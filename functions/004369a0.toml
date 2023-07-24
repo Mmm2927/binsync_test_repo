@@ -68,13 +68,13 @@ name = "arg10"
 type = "char"
 size = 0x10
 
-[header.args.621877793937184]
+[header.args.441783186105790852]
 offset = 0xa
 name = "arg11"
 type = "char"
 size = 0x10
 
-[header.args.621877793937185]
+[header.args.441783186105790853]
 offset = 0xb
 name = "arg12"
 type = "int128_t"
