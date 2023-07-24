@@ -4,6 +4,7 @@ size = 0x156b
 last_change = 2023-07-24T06:24:36.984308Z
 
 [header]
+last_change = 2023-07-24T06:24:36.984308Z
 name = "sub_435500"
 addr = 0x435500
 type = "ulong"
@@ -68,13 +69,13 @@ name = "arg10"
 type = "char"
 size = 0x10
 
-[header.args.25606]
+[header.args.153094]
 offset = 0xa
 name = "arg11"
 type = "char"
 size = 0x10
 
-[header.args.25607]
+[header.args.153095]
 offset = 0xb
 name = "arg12"
 type = "int128_t"
