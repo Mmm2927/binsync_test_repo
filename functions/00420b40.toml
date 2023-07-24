@@ -1,4 +1,10 @@
 [metadata]
 addr = 0x420b40
 size = 0x70
-last_change = 2023-07-24T06:24:28.167160Z
+last_change = 2023-07-24T06:24:28.968835Z
+
+[header]
+last_change = 2023-07-24T06:24:28.968835Z
+name = "sub_420b40"
+addr = 0x420b40
+type = "char (* (*"
