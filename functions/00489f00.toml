@@ -1,4 +1,10 @@
 [metadata]
 addr = 0x489f00
 size = 0x65
-last_change = 2023-07-24T06:24:25.985278Z
+last_change = 2023-07-24T06:24:26.544352Z
+
+[header]
+last_change = 2023-07-24T06:24:26.544352Z
+name = "sub_489f00"
+addr = 0x489f00
+type = "void* const"
