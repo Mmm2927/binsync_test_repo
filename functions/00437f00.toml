@@ -7,6 +7,13 @@ name = "hehe_som_qwe"
 addr = 0x437f00
 type = "ulong"
 
+[stack_vars.0x0]
+offset = 0x0
+name = "__return_addr"
+type = "void* const"
+size = 0x0
+addr = 0x437f00
+
 [header.args.0]
 offset = 0x0
 name = "arg1"
