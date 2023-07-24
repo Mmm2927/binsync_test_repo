@@ -1,4 +1,10 @@
 [metadata]
 addr = 0x4017e0
 size = 0x20
-last_change = 2023-07-24T06:23:42.840045Z
+last_change = 2023-07-24T06:23:43.137833Z
+
+[header]
+last_change = 2023-07-24T06:23:43.137833Z
+name = "deregister_tm_clones"
+addr = 0x4017e0
+type = "void"
