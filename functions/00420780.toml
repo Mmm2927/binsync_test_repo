@@ -1,4 +1,10 @@
 [metadata]
 addr = 0x420780
 size = 0x90
-last_change = 2023-07-24T06:24:05.468062Z
+last_change = 2023-07-24T06:24:05.905045Z
+
+[header]
+last_change = 2023-07-24T06:24:05.905045Z
+name = "sub_420780"
+addr = 0x420780
+type = "ulong (*"
