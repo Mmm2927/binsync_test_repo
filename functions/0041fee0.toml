@@ -1,4 +1,10 @@
 [metadata]
 addr = 0x41fee0
 size = 0x90
-last_change = 2023-07-24T06:25:58.655579Z
+last_change = 2023-07-24T06:26:00.854035Z
+
+[header]
+last_change = 2023-07-24T06:26:00.854035Z
+name = "sub_41fee0"
+addr = 0x41fee0
+type = "void (*"
