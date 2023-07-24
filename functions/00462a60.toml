@@ -1,4 +1,88 @@
 [metadata]
 addr = 0x462a60
 size = 0x25b6
-last_change = 2023-07-24T09:31:16.017374Z
+last_change = 2023-07-24T09:31:16.515439Z
+
+[header]
+last_change = 2023-07-24T09:31:16.515439Z
+name = "sub_462a60"
+addr = 0x462a60
+type = "void"
+
+[header.args.0]
+offset = 0x0
+name = "arg1"
+type = "void*"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "arg2"
+type = "long"
+size = 0x8
+
+[header.args.2]
+offset = 0x2
+name = "arg3"
+type = "int"
+size = 0x4
+
+[header.args.3]
+offset = 0x3
+name = "arg4"
+type = "long"
+size = 0x8
+
+[header.args.4]
+offset = 0x4
+name = "arg5"
+type = "ulong"
+size = 0x8
+
+[header.args.5]
+offset = 0x5
+name = "arg6"
+type = "int"
+size = 0x4
+
+[header.args.6]
+offset = 0x6
+name = "arg7"
+type = "int"
+size = 0x4
+
+[header.args.7]
+offset = 0x7
+name = "arg8"
+type = "char*"
+size = 0x8
+
+[header.args.8]
+offset = 0x8
+name = "arg9"
+type = "char*"
+size = 0x8
+
+[header.args.9]
+offset = 0x9
+name = "arg10"
+type = "int"
+size = 0x4
+
+[header.args.10]
+offset = 0xa
+name = "arg11"
+type = "char*"
+size = 0x8
+
+[header.args.11]
+offset = 0xb
+name = "arg12"
+type = "long"
+size = 0x8
+
+[header.args.12]
+offset = 0xc
+name = "arg13"
+type = "int"
+size = 0x4
