@@ -1,0 +1,10 @@
+[metadata]
+addr = 0x41fd10
+size = 0x78
+last_change = 2023-07-24T06:23:43.810087Z
+
+[header]
+last_change = 2023-07-24T06:23:43.810087Z
+name = "sub_41fd10"
+addr = 0x41fd10
+type = "ulong (*"

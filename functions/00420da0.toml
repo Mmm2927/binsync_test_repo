@@ -1,0 +1,10 @@
+[metadata]
+addr = 0x420da0
+size = 0x6f
+last_change = 2023-07-24T06:23:42.539338Z
+
+[header]
+last_change = 2023-07-24T06:23:42.539338Z
+name = "sub_420da0"
+addr = 0x420da0
+type = "void* (*"
