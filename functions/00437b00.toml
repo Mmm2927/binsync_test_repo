@@ -1,13 +1,19 @@
 [metadata]
 addr = 0x437b00
 size = 0x10cb
-last_change = 2023-07-24T07:26:58.902622Z
+last_change = 2023-07-24T07:27:32.447689Z
 
 [header]
-last_change = 2023-07-24T07:26:58.902622Z
 name = "maybe_vulnerable"
 addr = 0x437b00
 type = "ulong"
+
+[stack_vars.0x0]
+offset = 0x0
+name = "__return_addr"
+type = "void* const"
+size = 0x0
+addr = 0x437b00
 
 [header.args.0]
 offset = 0x0
