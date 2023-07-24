@@ -4,7 +4,6 @@ size = 0x2db
 last_change = 2023-07-24T06:24:25.515115Z
 
 [header]
-last_change = 2023-07-24T06:24:25.515115Z
 name = "sub_436790"
 addr = 0x436790
 type = "ulong"
